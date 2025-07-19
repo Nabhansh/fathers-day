@@ -19,7 +19,7 @@ To run this project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Anuj579/fathers-day-site.git
+https://github.com/Nabhansh/fathers-day.git
 
 # Navigate into the folder
 cd fathers-day-site
@@ -38,6 +38,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to see the w
 
 ## ⭐ Support
 
-If you liked this project, consider giving it a ⭐ on [GitHub](https://github.com/Anuj579)  
+If you liked this project, consider giving it a ⭐ on GitHubhttps://github.com/Nabhansh
 Thank you for checking it out! 💖  
 Made with love by **Nabhansh**
